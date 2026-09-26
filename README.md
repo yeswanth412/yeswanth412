@@ -1,44 +1,39 @@
-# Hi, I'm Yeswanth Narasayya Naidu Uggina 👋
+# Hi, I'm Yeswanth Uggina 👋
 
-### Python Backend Developer | FastAPI | PostgreSQL | REST APIs | AI
+### Python Developer | FastAPI | SQL | PostgreSQL | REST APIs
 
-I'm a Computer Science graduate focused on building backend applications and learning AI technologies using Python.
+I'm a Computer Science developer focused on building practical backend applications with Python, FastAPI, SQL and relational databases.
 
-I enjoy building REST APIs, working with databases, implementing authentication systems, and developing practical software projects.
+I enjoy designing REST APIs, working with databases, implementing authentication and authorization, and building backend systems that solve real-world problems.
 
 ---
 
 ## 🚀 What I Build
 
-* 🐍 Python backend applications
-* ⚡ REST APIs with FastAPI
-* 🔐 Authentication and authorization systems
-* 🗄️ PostgreSQL, MySQL and MongoDB applications
-* 🤖 AI-powered applications and agents
-* 📊 SQL and database-driven applications
+- 🐍 Python backend applications
+- ⚡ REST APIs with FastAPI
+- 🔐 Authentication and authorization systems
+- 🗄️ Database-driven applications
+- 🧩 CRUD and business logic systems
+- 📊 SQL and PostgreSQL solutions
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Languages
-
-Python • SQL • Java
+Python • SQL
 
 ### Backend
-
-FastAPI • REST APIs • Pydantic
+FastAPI • REST APIs • Pydantic • SQLAlchemy
 
 ### Databases
-
 PostgreSQL • MySQL • MongoDB
 
 ### Tools
-
 Git • GitHub • Postman • Swagger/OpenAPI • VS Code
 
 ### Concepts
-
 OOP • CRUD • DBMS • Data Structures • Authentication • Authorization
 
 ---
@@ -47,45 +42,86 @@ OOP • CRUD • DBMS • Data Structures • Authentication • Authorization
 
 ### 🚗 GoCars
 
-Backend platform for self-drive and driver-assisted car rentals.
+A backend platform for self-drive and driver-assisted car rentals.
 
-**Tech:** Python • FastAPI • PostgreSQL • SQLAlchemy • JWT • RBAC
+**Tech:** Python • FastAPI • PostgreSQL • SQLAlchemy 2.0 • Alembic • JWT • RBAC
+
+[View Repository](https://github.com/yeswanth412/go_cars)
+
+---
+
+### 🛒 FLASHWEAR
+
+A Quick Commerce & Apparel E-Commerce backend platform with modular asynchronous services for catalog, cart, checkout and background task workflows.
+
+**Tech:** Python • FastAPI • PostgreSQL • SQLAlchemy 2.0 • Redis • Celery • RabbitMQ • JWT
+
+**Status:** Backend APIs implemented; frontend integration pending.
+
+[View Repository](https://github.com/Kiran388-code/FLASHWEAR_E-COMMERCE)
+
+---
 
 ### 🔐 FastAPI Authentication Service
 
-RESTful authentication backend with JWT authentication, email verification, password reset and MongoDB.
+Authentication backend implementing JWT-based authentication, email verification and password reset functionality with MongoDB.
 
 **Tech:** Python • FastAPI • MongoDB • JWT • Pydantic • SMTP
 
-### 🛍️ FlashWear
+[View Repository](https://github.com/yeswanth412/fastapi_authentication-service)
 
-E-commerce application with backend and database functionality.
+---
 
-### 🗄️ E-Commerce Database Management System
+### 🗄️ E-Commerce Database System
 
-Relational database project demonstrating ER modeling, SQL queries, joins and aggregation.
+A relational database project demonstrating database design, normalization, joins, aggregation and SQL query development.
+
+**Tech:** SQL • PostgreSQL • ER Modeling • 3NF • Joins • Aggregations
+
+[View Repository](https://github.com/yeswanth412/e_commerce)
+
+---
+
+### 🏥 Hospital Management System
+
+A database-driven management system demonstrating Python OOP concepts and database operations.
+
+**Tech:** Python • OOP • SQL • MongoDB
+
+[View Repository](https://github.com/yeswanth412/hospital_management)
 
 ---
 
 ## 📚 Currently Learning
 
-* Machine Learning
-* Deep Learning
-* LLMs
-* RAG
-* AI Agents
-* Modern Python backend development
+- Machine Learning
+- Deep Learning
+- LLMs
+- RAG
+- AI Agents
+- Advanced Python backend development
 
 ---
 
 ## 🎯 Current Focus
 
-Building practical Python backend projects and developing stronger skills in backend engineering, databases and AI.
+I'm currently focused on strengthening my skills in:
+
+**Python → FastAPI → REST APIs → SQL → PostgreSQL → Backend Engineering**
+
+I'm also exploring AI/ML technologies to understand how they can be integrated into practical Python applications.
+
+---
+
+## 🌐 Portfolio
+
+**[yeswanth-portfolio.onrender.com](https://yeswanth-portfolio.onrender.com)**
 
 ---
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn:[ [Yeswanth Uggina](https://www.linkedin.com/in/yeswanth-uggina/)
-* 🐙 GitHub: [yeswanth412](https://github.com/yeswanth412)
-* 📧 Email: [ugginayeswanthnarasayyanaidu@gmail.com](mailto:ugginayeswanthnarasayyanaidu@gmail.com)
+- 💼 [LinkedIn — Yeswanth Uggina](https://www.linkedin.com/in/yeswanth-uggina/)
+- 🐙 [GitHub — yeswanth412](https://github.com/yeswanth412)
+- 🌐 [Portfolio](https://yeswanth-portfolio.onrender.com)
+- 📧 [ugginayeswanthnarasayyanaidu@gmail.com](mailto:ugginayeswanthnarasayyanaidu@gmail.com)
